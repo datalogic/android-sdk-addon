@@ -111,15 +111,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>15</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122781</sdk:size>
-                <sdk:checksum type="sha1">cc7598ea2b87aa7c39674e606fcded24436f89f5</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-15.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">39ba467adb0e3eadf9934521c4cd4a93df7023cf</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-15.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -135,15 +135,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>16</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">bbcca809559061179629ffa7ff5f5fb1845aeedf</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-16.zip</sdk:url>
+                <sdk:size>127581</sdk:size>
+                <sdk:checksum type="sha1">50fc67d8da8f68f2fd5c7ed7f4bc6fbf27de6f2a</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-16.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -159,15 +159,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>17</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">85d4284b4011de97f15e8ba274739215e181f757</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-17.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">9eff50c85c9e33fd8ce784f1c9d93dd43edd0c10</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-17.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -183,15 +183,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>18</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">1b13e68fcb9e6618a36a225c101495efe46cbcf8</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-18.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">0ebca14696747af74f2b6612b60b73c95e286df6</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-18.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -207,15 +207,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>19</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">c83aada3ba57253a9bc9cca727747d663d9bef85</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-19.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">3ad7f6a5f9c0ac54ea2e2c91ff143d033091f228</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-19.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -231,15 +231,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>21</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">abfd3f3641d4d989fca79392da7e9b0212cee0cb</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-21.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">834159c377d538e9c5c80cc4ad40f44c6a800494</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-21.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -255,15 +255,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>22</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">de4329c1ad1e24799a3fd32cd9612edf74c3466b</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-22.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">4d743a5bb27fc9ba7ad60117338183947d41530d</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-22.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -279,15 +279,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>23</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">3eecf2132b14cb6f4ebe3cf7f5965b16e52ce453</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-23.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">e09136a742d767a369ddabfa1fc5ab9b77d3b783</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-23.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -303,15 +303,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>24</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">fee86f5a90a873ea4ee46b6faf032b29a2a7a1d1</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-24.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">92a5431d7aeaf1d565ccf6c2c95a58313bf3e53b</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-24.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -327,15 +327,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>25</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122779</sdk:size>
-                <sdk:checksum type="sha1">9cb66034f7b48acede995538d9804a5eaa4fccd9</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-25.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">c2e58e60c6884d81a34253e6039b9da2533c4311</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-25.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -351,15 +351,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>26</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">77dd899c0f8c8abd2b4c69cd94ab78bd8c5f27c2</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-26.zip</sdk:url>
+                <sdk:size>127579</sdk:size>
+                <sdk:checksum type="sha1">e4812b6474e292ee0462f356045bf07a35883300</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-26.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -375,15 +375,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>27</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">3aa90e32220f9f059ce7aa384c7264ebc95b3d6f</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-27.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">8ff0d9fe4d517ccf98956f076e51c8d74db1bd22</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-27.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -399,15 +399,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>28</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">582d270ed838d33fc3d57b20ed1395ed840cbcce</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-28.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">2044d1aa187a1f3897531e546561851abb87388d</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-28.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
@@ -423,15 +423,15 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:api-level>29</sdk:api-level>
         <sdk:vendor-id>datalogic</sdk:vendor-id>
         <sdk:vendor-display>Datalogic</sdk:vendor-display>
-        <sdk:revision>25</sdk:revision>
-        <sdk:description>Datalogic SDK v1.25</sdk:description>
+        <sdk:revision>26</sdk:revision>
+        <sdk:description>Datalogic SDK v1.26</sdk:description>
         <sdk:desc-url>http://datalogic.github.io</sdk:desc-url>
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>122782</sdk:size>
-                <sdk:checksum type="sha1">9c560723017e75367764d971084f7f6b9c07146d</sdk:checksum>
-                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.25/datalogic-sdk-v1.25-29.zip</sdk:url>
+                <sdk:size>127582</sdk:size>
+                <sdk:checksum type="sha1">2cc78d6303a4c0f5b7a29485e38fa6f412f8c61d</sdk:checksum>
+                <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.26/datalogic-sdk-v1.26-29.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:libs>
