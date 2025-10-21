@@ -10,13 +10,13 @@ Notice to End User: The Datalogic SDK software (&#34;Datalogic SDK&#34;) subject
 
 END USER LICENSE AGREEMENT TERMS
 
-This EULA (End User Software License Agreement) (&#34;EULA&#34; or &#34;Agreement&#34;) is a legally binding agreement governing the licensing of the Software and Documentation by Datalogic IP Tech S.r.l. and its subsidiaries and Affiliates (&#34;Datalogic&#34;) to the entity or person who has purchased or otherwise acquired a Datalogic Product (&#34;End User&#34;). For purposes of this Agreement, any software that is not the Datalogic SDK, Embedded Software or Application Software is software associated with a separate end-user license agreement and is licensed to you under the terms of that license agreement. Software is provided only for use with the Datalogic Product and any other use of Software is strictly prohibited and may subject you to legal action. Software is provided to you under license, subject to the terms and conditions of this EULA. Any and all updates to Software shall also be subject to this EULA. If you use a Datalogic Product that includes the Software or by downloading, the Datalogic SDK, you will be deemed to have accepted the terms and conditions of this EULA. If you do not intend to be bound to the terms of this EULA, Datalogic is not willing to license the Software to you; and you may not use the Datalogic Product or download, install or  use the Software; and you must contact the party from whom you acquired the Datalogic Product for instructions on how to return the Datalogic Product.
+This EULA (End User Software License Agreement) (&#34;EULA&#34; or &#34;Agreement&#34;) is a legally binding agreement governing the licensing of the Software and Documentation by Datalogic IP Tech S.r.l. and its subsidiaries and Affiliates (&#34;Datalogic&#34;) to the entity or person who has purchased or otherwise acquired a Datalogic Product (&#34;End User&#34;). For purposes of this Agreement, any software that is not the Datalogic SDK, Embedded Software or Application Software is software associated with a separate end-user license agreement and is licensed to you under the terms of that license agreement. Software is provided only for use in support of the Datalogic Product and any other use of Software is strictly prohibited and may subject you to legal action. Software is provided to you under license, subject to the terms and conditions of this EULA. Any and all updates to Software shall also be subject to this EULA. If you use a Datalogic Product that includes the Software or by downloading, the Datalogic SDK, you will be deemed to have accepted the terms and conditions of this EULA. If you do not intend to be bound to the terms of this EULA, Datalogic is not willing to license the Software to you; and you may not use the Datalogic Product or download, install or  use the Software; and you must contact the party from whom you acquired the Datalogic Product for instructions on how to return the Datalogic Product.
 
 Datalogic and End User hereby agree as follows:
 
 1. Definitions.
 
-1.1	&#34;Affiliate&#34; means a business entity currently existing or later acquired that controls, is controlled by, or is under common control with Datalogic S.p.A
+1.1	&#34;Affiliate&#34; means a business entity currently existing or later acquired that controls, is controlled by, or is under common control with Datalogic S.p.A.
 
 1.2	&#34;Documentation&#34; means materials such as user&#39;s guides, program reference guides, quick reference guides, manuals, or similar materials associated with or related to the Datalogic Product, whether in printed, &#34;online&#34;, or other form.
 
@@ -27,14 +27,14 @@ Datalogic and End User hereby agree as follows:
 
 2. Scope of License Granted.
 
-2.1	Datalogic grants to End User a non-exclusive, non-transferable, perpetual license to use the Software, solely on the Datalogic Product in which it is embedded, or the product for which it is intended for use (&#34;designated Datalogic Product&#34;), in machine-readable form only, solely for End User&#39;s internal business purposes. This Agreement does not convey ownership of the Software to End User. Title to the Software shall be and remain with Datalogic or the third party from whom Datalogic has obtained a licensed right. As used in this Agreement, the term &#34;purchase&#34; or its equivalents when applied to the Software shall mean &#34;acquire under license.&#34;
+2.1	Datalogic grants to End User a non-exclusive, non-transferable, perpetual license to use the Software, solely in support of the Datalogic Product in which it is embedded, or the product for which it is intended for use (&#34;designated Datalogic Product&#34;), in machine-readable form only, solely for End User&#39;s internal business purposes. This Agreement does not convey ownership of the Software to End User. Title to the Software shall be and remain with Datalogic or the third party from whom Datalogic has obtained a licensed right. As used in this Agreement, the term &#34;purchase&#34; or its equivalents when applied to the Software shall mean &#34;acquire under license.&#34;
 
 2.2	End User shall not copy, modify, decompile, disassemble, reverse engineer, or otherwise reproduce or remanufacture the Software, whether modified or unmodified, nor sell, assign, sublicense, distribute, lend, rent, give, or otherwise transfer the Software to any other person or organization, for purposes other than as expressly provided in this Agreement, without Datalogic&#39;s prior written consent.
 
 
 3. Transfers, Support.
 
-3.1	Any copying, installing, reproduction, remanufacture, reverse engineering, electronic transfer, or other use of the Software on other than the designated Datalogic Product will be a material breach of this Agreement. However, Datalogic may elect not to terminate this Agreement or the granted licenses, but instead may elect to notify End User that End User is deemed to have ordered and accepted a license for each breaching use on qualified Datalogic Products. End User shall pay Datalogic the applicable list price for such licenses as of the date of such breach.
+3.1	Any copying, installing, reproduction, remanufacture, reverse engineering, electronic transfer, mimicking, or other use of the Software in support of any other product other than the designated Datalogic Product will be a material breach of this Agreement. However, Datalogic may elect not to terminate this Agreement or the granted licenses, but instead may elect to notify End User that End User is deemed to have ordered and accepted a license for each breaching use on qualified Datalogic Products. End User shall pay Datalogic the applicable list price for such licenses as of the date of such breach.
 
 3.2	End User shall not sell, assign, sublicense, distribute, lend, rent, give, or otherwise transfer the Datalogic Product to any third party unless such third party agrees with Datalogic in writing to be bound by the terms and conditions of this Agreement. Any such transfer of the Datalogic Product absent such agreement shall be null and void.
 
@@ -42,7 +42,7 @@ Datalogic and End User hereby agree as follows:
 
 
 4. Intellectual Property.
-End User acknowledges that the Software constitutes valuable trade secrets of Datalogic or Datalogic&#39;s third party licensors and that the Software is protected by United States copyright law and trade secret law, and by all applicable international intellectual property laws and treaty provisions. The license set forth in this Agreement does not transfer to End User any ownership of Datalogic&#39;s or its third party licensors&#39;  copyrights, patents, trademarks, service marks, trade secrets, or other intellectual property rights and End User shal
+End User acknowledges that the Software constitutes valuable trade secrets of Datalogic or Datalogic&#39;s third party licensors and that the Software is protected by United States copyright law and trade secret law, and by all applicable international intellectual property laws and treaty provisions. The license set forth in this Agreement does not transfer to End User any ownership of Datalogic&#39;s or its third-party licensors&#39; copyrights, patents, trademarks, service marks, trade secrets, or other intellectual property rights and End User shall
 have no right to commence any legal actions to obtain such rights. End User shall not remove, modify, or take any other action that would obscure any copyright, trademark, patent marking, or other intellectual property notices contained in or on the Software or the Datalogic Product.
 
 
@@ -50,14 +50,14 @@ have no right to commence any legal actions to obtain such rights. End User shal
 
 5.1	End User acknowledges that Proprietary Information is the confidential, proprietary, and trade secret property of Datalogic and Datalogic&#39;s third party licensors and End User acquires no right or interest in any Proprietary Information.
 
-5.2	End User shall not disclose, provide, or otherwise make available the Proprietary Information of Datalogic or its third party licensors to any person other than End User&#39;s authorized employees or agents who are under confidentiality agreement, and End User shall not use the Proprietary Information other than in conjunction with use of the Datalogic Product exclusively for End User&#39;s internal business purposes. End User shall take steps to protect the Proprietary Information no less securely than if it were End User&#39;s own intellectual property.
+5.2	End User shall not disclose, provide, or otherwise make available the Proprietary Information of Datalogic or its third-party licensors to any person other than End User&#39;s authorized employees or agents who are under confidentiality agreement, and End User shall not use the Proprietary Information other than in conjunction with use of the Datalogic Product exclusively for End User&#39;s internal business purposes. End User shall take steps to protect the Proprietary Information no less securely than if it were End User&#39;s own intellectual property.
 
 5.3	The provisions of this Proprietary Information Section shall survive and continue for five (5) years after the termination of this Agreement, or for trade secrets, as long as allowed by applicable law.
 
 
 6. Limited Warranty.
 
-6.1	Datalogic warrants that, under normal use and operation, the Software will conform substantially to the applicable Documentation for the period specified in the Documentation. During this period, for all reproducible nonconformities for which Datalogic has been given written notice, Datalogic will use commercially reasonable efforts to remedy nonconformities verified by Datalogic. End User agrees to supply Datalogic with all reasonably requested information and assistance necessary to help Datalogic in remedying such nonconformities. For all defects reported to Datalogic within the warranty period, Datalogic&#39;s liability is limited to providing End User with one copy of corrections or responding to End User&#39;s problem reports according to Datalogic&#39;s standard assistance practices. Datalogic does not warrant that Software will meet End User&#39;s requirements or that use of Software will be uninterrupted or error free, or that Datalogic&#39;s remedial efforts will correct any nonconformance. End User agrees that the existence of such non conformities or errors and Datalogic&#39;s inability to remedy such errors shall not constitute a breach of this Agreement. This limited warranty does not cover use of the Software with any hardware system other than the Datalogic Product or to Software that has been subjected to damage or abuse, whether intentionally, accidentally, or by neglect, or to unauthorized repair or unauthorized installation, and shall be void if End User alters or modifies the Datalogic Product or Software, uses the Datalogic Product or Software in any manner other than as established in the Documentation, or if End User breaches any of the provisions of this Agreement.
+6.1	Datalogic warrants that, under normal use and operation, the Software will conform substantially to the applicable Documentation for the period specified in the Documentation. During this period, for all reproducible nonconformities for which Datalogic has been given written notice, Datalogic will use commercially reasonable efforts to remedy nonconformities verified by Datalogic. End User agrees to supply Datalogic with all reasonably requested information and assistance necessary to help Datalogic in remedying such nonconformities. For all defects reported to Datalogic within the warranty period, Datalogic&#39;s liability is limited to providing End User with one copy of corrections or responding to End User&#39;s problem reports according to Datalogic&#39;s standard assistance practices. Datalogic does not warrant that Software will meet End User&#39;s requirements or that use of Software will be uninterrupted or error free, or that Datalogic&#39;s remedial efforts will correct any nonconformance. End User agrees that the existence of such nonconformities or errors and Datalogic&#39;s inability to remedy such errors shall not constitute a breach of this Agreement. This limited warranty does not cover use of the Software with any hardware system other than the Datalogic Product or to Software that has been subjected to damage or abuse, whether intentionally, accidentally, or by neglect, or to unauthorized repair or unauthorized installation, and shall be void if End User alters or modifies the Datalogic Product or Software, uses the Datalogic Product or Software in any manner other than as established in the Documentation, or if End User breaches any of the provisions of this Agreement.
 
 6.2	EXCEPT AS PROVIDED IN THIS AGREEMENT, THE DATALOGIC PRODUCT AND SOFTWARE IS PROVIDED &#34;AS IS&#34; AND DATALOGIC AND ITS THIRD PARTY LICENSORS MAKE NO WARRANTIES, CONDITIONS OR REPRESENTATIONS OF ANY KIND, WHETHER EXPRESS, STATUTORY OR IMPLIED (AT LAW OR IN EQUITY), WRITTEN OR ORAL, WITH RESPECT TO THE DATALOGIC PRODUCT OR SOFTWARE, AND SPECIFICALLY DISCLAIM ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
@@ -93,7 +93,7 @@ EXCEPT AS PROVIDED IN SECTION 7, NEITHER DATALOGIC NOR ITS LICENSORS SHALL BE LI
 11.3 Waiver. A party&#39;s failure to enforce any of the terms and conditions of this Agreement shall not prevent the party&#39;s later enforcement of such terms and conditions.
 
 11.4 Governing Law; Venue: End User agrees to the application of the laws of the country in which End User obtained the license to govern, interpret, and enforce all of End User&#39;s and Datalogic&#39;s respective rights, duties, and obligations arising from, or relating in any manner to, the subject matter of this Agreement, without regard to conflict of law principles. The United Nations Convention on Contracts for the International Sale of Goods does not apply.
-All rights, duties, and obligations are subject to the courts of the country in which End User obtained the license.  For licenses granted by Licensee who operates in the countries specified below, the following terms applies.
+All rights, duties, and obligations are subject to the courts of the country in which End User obtained the license.  For licenses granted by Licensee who operates in the countries specified below, the following terms apply.
 
 For Americas:
 This Agreement is governed by the laws of the State of Oregon. This Agreement and the rights of the parties hereunder shall be governed by and construed in accordance with the laws of the State of Oregon U.S.A, without regard to the rules governing conflicts of law. The state or federal courts of the State of Oregon located in either Multnomah or Lane counties shall have exclusive jurisdiction over all matters regarding this Agreement, except that Datalogic shall have the right, at its absolute discretion, to initiate proceedings in the courts of any other state, country, or territory in which End User resides, or in which any of End User&#39;s assets are located. In the event an action is brought to enforce the terms and conditions of this Agreement, the prevailing party shall be entitled to reasonable attorneys&#39; fees, both at trial and on appeal.
@@ -118,7 +118,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">68a4d11d0a78cca17b278ca87f2d5aa25fcbd207</sdk:checksum>
+                <sdk:checksum type="sha1">7a47ddbaba328057b5cb8a712b8ed6076995f06e</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-15.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -142,7 +142,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261160</sdk:size>
-                <sdk:checksum type="sha1">21507b07ba35383e1641ce8d484066330bf3cc44</sdk:checksum>
+                <sdk:checksum type="sha1">f38ce5faf406cfc7b21e7f0cf673ec53102e54c1</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-16.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -166,7 +166,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">4631681b573fa4e99b7046d9415a1f5e966c9ec7</sdk:checksum>
+                <sdk:checksum type="sha1">f2546141329f501ea102b9d2703c333f807dcfb6</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-17.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -190,7 +190,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">1d0354cc9f490faab59fec2cdfbef280c9faf6ac</sdk:checksum>
+                <sdk:checksum type="sha1">a133c6f5b5c40e6050f8ce4ebb39d62331b13d09</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-18.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -214,7 +214,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">0acdade9f7f87b4a6bf5d641d9259e7032f96e5b</sdk:checksum>
+                <sdk:checksum type="sha1">23c8005842a5c286aee790579850fe1f1dc48821</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-19.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -238,7 +238,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">a784a2845c616d4f10eb16f4dbbcc12a6e43ec81</sdk:checksum>
+                <sdk:checksum type="sha1">2fff7074028243eeccba3a977325b793ea8bd122</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-21.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -262,7 +262,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">6f1665ac4e564c3d7074cc38b0c3fcdd73c3e4ca</sdk:checksum>
+                <sdk:checksum type="sha1">831fade1a48f7fba2e8c247c04eb2c610670d3ea</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-22.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -286,7 +286,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">e6a1a99bb02399caa5e54bf87298450a56c8908d</sdk:checksum>
+                <sdk:checksum type="sha1">2b0f04f80b40502d4064a2354bae0892af681cd0</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-23.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -310,7 +310,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">362003300d83499e5d8f96bac4b55ac740c3031b</sdk:checksum>
+                <sdk:checksum type="sha1">f21d008cbba9be19f1e35b70ca148f7628a048d2</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-24.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -334,7 +334,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">706267b50bde626969188ab340560fac5967310c</sdk:checksum>
+                <sdk:checksum type="sha1">291fc277a24a3515e4086830dd4fee8e22201116</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-25.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -358,7 +358,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261160</sdk:size>
-                <sdk:checksum type="sha1">ea840e71d7809ce3455cd4dcd001fc8bda132e75</sdk:checksum>
+                <sdk:checksum type="sha1">68be559c4c2bea6d80dc7fde828ce082668dc21e</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-26.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -382,7 +382,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">5efc1b90a8ed2ddabd22b551b86a60217e9d4d39</sdk:checksum>
+                <sdk:checksum type="sha1">3c14c1611a1eb20ee5b4902132886f3724eb6fb1</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-27.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -406,7 +406,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">e42c2a6f0d51580e44e48a009ae1b7a3e3c45f98</sdk:checksum>
+                <sdk:checksum type="sha1">b322d87bf0eac49310a811d9f686a00f14c00026</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-28.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -430,7 +430,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">7f92873c7fa721f99d3a455c838004c461783a08</sdk:checksum>
+                <sdk:checksum type="sha1">2430f42ba6d43bf989b47ec182049704c54b38fc</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-29.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -454,7 +454,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">03bde8d423b29f7bca7a1b93edfb88d83fce912a</sdk:checksum>
+                <sdk:checksum type="sha1">7b3e2986574fb9dfda49f44e60b1ebe90f51a135</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-30.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -478,7 +478,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">e854561f57730b023079f70dbb71b4d520218722</sdk:checksum>
+                <sdk:checksum type="sha1">96dd8dac84b78215b963f6534d205e258be095bb</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-31.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -502,7 +502,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">6175f354d712930030b2db665e0710d5b790f383</sdk:checksum>
+                <sdk:checksum type="sha1">e2a1360480728b93f65af86323426bae5bc5bc17</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-32.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -526,7 +526,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">5081b6e0efe06d70a39a36e1a0684258818caef0</sdk:checksum>
+                <sdk:checksum type="sha1">d4955b0601acb66b915334a46494b035725b8172</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-33.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -550,7 +550,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">82f94acd06c85736bd0308fd635f0281548934c0</sdk:checksum>
+                <sdk:checksum type="sha1">ac628dbc6c2791c17091243cf5b2db87a7494a30</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-34.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -574,7 +574,7 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
         <sdk:archives>
             <sdk:archive>
                 <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">f9a876b3816e089a57abaff62a4c90015bdbba4a</sdk:checksum>
+                <sdk:checksum type="sha1">eca7e3b68e48d42496ed32d63acd96c23d6c612e</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-35.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
