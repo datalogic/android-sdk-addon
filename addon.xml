@@ -117,8 +117,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">7a47ddbaba328057b5cb8a712b8ed6076995f06e</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">5fb0f7e3cb4868694ebf3d51349c0f76c03548ec</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-15.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -141,8 +141,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261160</sdk:size>
-                <sdk:checksum type="sha1">f38ce5faf406cfc7b21e7f0cf673ec53102e54c1</sdk:checksum>
+                <sdk:size>261329</sdk:size>
+                <sdk:checksum type="sha1">0ca4b7389ec92488a88d1fcd23a6548c00ac0971</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-16.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -165,8 +165,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">f2546141329f501ea102b9d2703c333f807dcfb6</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">c18a6e4688176e5e3dc25443d9bd1e67bbd5bbf8</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-17.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -189,8 +189,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">a133c6f5b5c40e6050f8ce4ebb39d62331b13d09</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">eae745e062b0672c024098672d9671d5c1868a10</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-18.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -213,8 +213,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">23c8005842a5c286aee790579850fe1f1dc48821</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">a7e1c0a073c3724a4317c3300190d32a0a2b12ed</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-19.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -237,8 +237,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">2fff7074028243eeccba3a977325b793ea8bd122</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">e80895cc1e80b828cd77c3a48c09d239749598e8</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-21.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -261,8 +261,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">831fade1a48f7fba2e8c247c04eb2c610670d3ea</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">a53db4678b3636bb2e0f01c1199f39fb040c9457</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-22.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -285,8 +285,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">2b0f04f80b40502d4064a2354bae0892af681cd0</sdk:checksum>
+                <sdk:size>261331</sdk:size>
+                <sdk:checksum type="sha1">9d2cbf3bb6bd9d048bfcb043380c39673e17cd4e</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-23.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -309,8 +309,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">f21d008cbba9be19f1e35b70ca148f7628a048d2</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">37e7b25fc70cadb965f1bc403fff87f2687e8cd1</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-24.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -333,8 +333,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">291fc277a24a3515e4086830dd4fee8e22201116</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">c957fc487c606d1cb3c878cff1b420d0b9504d59</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-25.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -357,8 +357,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261160</sdk:size>
-                <sdk:checksum type="sha1">68be559c4c2bea6d80dc7fde828ce082668dc21e</sdk:checksum>
+                <sdk:size>261329</sdk:size>
+                <sdk:checksum type="sha1">f0d764f4a8ba4416891a63ad69e0b149757b7b08</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-26.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -381,8 +381,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">3c14c1611a1eb20ee5b4902132886f3724eb6fb1</sdk:checksum>
+                <sdk:size>261331</sdk:size>
+                <sdk:checksum type="sha1">90be1d7c866bb913f6eaba88a8804b9fba36f39a</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-27.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -405,8 +405,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">b322d87bf0eac49310a811d9f686a00f14c00026</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">373ce873157aa0852d62e21137dcec5c6940f2bf</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-28.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -429,8 +429,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">2430f42ba6d43bf989b47ec182049704c54b38fc</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">340b88a6a9298ac1c11bf2da89460d2a6b7cdd52</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-29.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -453,8 +453,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">7b3e2986574fb9dfda49f44e60b1ebe90f51a135</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">4095328ba2d408b2849439b7aa299273c2b1e846</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-30.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -477,8 +477,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">96dd8dac84b78215b963f6534d205e258be095bb</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">0f8ee2e85ac79bd4ae7029e2858f7d52489551c3</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-31.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -501,8 +501,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261162</sdk:size>
-                <sdk:checksum type="sha1">e2a1360480728b93f65af86323426bae5bc5bc17</sdk:checksum>
+                <sdk:size>261331</sdk:size>
+                <sdk:checksum type="sha1">704f42b8c39b62cb2e7d2f2ea5dc89b6505b0e7b</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-32.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -525,8 +525,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">d4955b0601acb66b915334a46494b035725b8172</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">eb29b623b5effd826a9b52b3c85863e3ef1eb474</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-33.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -549,8 +549,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">ac628dbc6c2791c17091243cf5b2db87a7494a30</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">84366a693c4520e05687c41149278720916a2aa9</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-34.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
@@ -573,8 +573,8 @@ This Agreement is governed by the laws of the State of Hong Kong. This Agreement
 		<sdk:uses-license ref="datalogic-sdk-license"/>
         <sdk:archives>
             <sdk:archive>
-                <sdk:size>261161</sdk:size>
-                <sdk:checksum type="sha1">eca7e3b68e48d42496ed32d63acd96c23d6c612e</sdk:checksum>
+                <sdk:size>261330</sdk:size>
+                <sdk:checksum type="sha1">87698684e1c6a78a718449fe5b514f68db5c0b97</sdk:checksum>
                 <sdk:url>https://github.com/datalogic/android-sdk-addon/releases/download/v1.46/datalogic-sdk-v1.46-35.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
